@@ -15,7 +15,7 @@ A PyQt5 desktop application to control your Viam-powered pet feeder robot. Featu
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/ZACHARY2215/pet-feeder.git
+   git clone https://github.com/LUSIENTOO/pet-feeder-main
    cd pet-feeder/pet_feeder_app
    ```
 
